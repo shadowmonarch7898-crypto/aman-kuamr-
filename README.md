@@ -1,2 +1,2 @@
-# aman-kuamr-
+# aman-kumar
 my fist repo 
